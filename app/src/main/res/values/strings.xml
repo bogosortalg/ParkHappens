@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ParkMe</string>
+    <string name="welcome_slide_head">- Whoa, man! You just ran through a large parking lot. - It happens. - What, park? </string>
+    <string name="welcome_slide_description">Sometimes it happens.</string>
 </resources>
