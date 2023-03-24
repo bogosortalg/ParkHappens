@@ -1,1 +1,1 @@
-# ParkMe app from mirea mobile dev course 2023
+# ParkHappens app from mirea mobile dev course 2023
