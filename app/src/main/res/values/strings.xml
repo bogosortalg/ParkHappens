@@ -2,4 +2,12 @@
     <string name="app_name">ParkMe</string>
     <string name="welcome_slide_head">- Whoa, man! You just ran through a large parking lot. - It happens. - What, park? </string>
     <string name="welcome_slide_description">Sometimes it happens.</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome_back">Did it happen again? Welcome back.</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="new_member">New member? </string>
 </resources>
