@@ -10,4 +10,6 @@
     <string name="password">Password</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="new_member">New member? </string>
+    <string name="greetings">Hello!</string>
+    <string name="profile_name">None</string>
 </resources>
